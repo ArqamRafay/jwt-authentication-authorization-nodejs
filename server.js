@@ -53,3 +53,7 @@ const PORT = process.env.PORT || 8080;
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}.`);
 });
+
+// Given refference 
+// Create git repo name jwt-Authetication-Authorization-with-nodejs-mysql
+// Link to apply : https://www.bezkoder.com/node-js-jwt-authentication-mysql/
